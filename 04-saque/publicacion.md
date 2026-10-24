@@ -1,7 +1,7 @@
 # Reel 04 · El saque — lista para publicar
 
 **Vídeo:** `04-saque.mp4` (1080×1920, 85 s, 30 fps, 17 MB, H.264 + AAC) · **Portada:** `portada.jpg` (fotograma del gancho).
-**Estado:** vídeo revisado entero (voz, subtítulos, cámaras y cierre con el logo). Metricool aún sin conectar: se publica a mano en las tres redes.
+**Estado:** vídeo revisado entero (voz, subtítulos, cámaras y cierre con el logo). Cuenta de Metricool «Padel» ya conectada a Instagram, TikTok, YouTube y Facebook; de momento se publica a mano.
 
 **Datos que se enseñan y de dónde salen**
 - 668 saques de 14 partidos (7 masculinos y 7 femeninos) de las finales del World Padel Tour 2019: ninguno ganó el punto directo; ~65 % van a la pared lateral (62,5 % en mujeres, 64,6 % en hombres) → Sánchez-Alcaraz et al. (2020), *Applied Sciences*.
@@ -77,4 +77,4 @@ Las 3 claves:
 - [x] Datos contrastados con dos estudios (arriba).
 - [x] Textos dentro de los límites: TikTok 5 hashtags; YouTube título < 100; Instagram < 2200.
 - [ ] Publicar a la vez en las tres redes y fijar el comentario.
-- [ ] Cuando se conecte Metricool: programar desde aquí y guardar las estadísticas del reel 04 como referencia.
+- [ ] Metricool conectado: al programar, guardar las estadísticas del reel 04 como referencia.
