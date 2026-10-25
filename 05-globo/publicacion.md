@@ -1,6 +1,6 @@
 # Reel 05 · El globo — textos de publicación
 
-**Vídeo:** `05-globo.mp4` (1080×1920, ~105 s, 30 fps, H.264 + AAC) · **Portada:** `portada.jpg` (fotograma del gancho).
+**Vídeo:** `05-globo.mp4` (1080×1920, 102 s, 30 fps, H.264 + AAC) · **Portada:** `portada.jpg` (fotograma del gancho).
 
 **Datos que se enseñan y de dónde salen**
 - De 296 globos de las finales del WPT 2021, el 64,6 % no superó a los rivales (28,3 % sí; 6,7 % error) → Sánchez-Pay et al. (2023), estudio piloto de 2 partidos y 8 jugadores.
@@ -77,6 +77,6 @@ Casi 2 de cada 3 globos profesionales no pasan por encima de los rivales 🎾 Y 
 ## Lista antes de pulsar «publicar»
 - [x] Datos contrastados (dos estudios + guías de entrenadores).
 - [x] Textos dentro de los límites: TikTok 5 hashtags; YouTube título < 100; Instagram < 2200.
-- [ ] Vídeo renderizado y revisado.
+- [x] Vídeo renderizado en el móvil del usuario (8 Mbps) y montado con el audio; revisado.
 - [ ] Programado.
 - [ ] Tras publicarse: fijar el comentario en cada red.
