@@ -78,5 +78,5 @@ Casi 2 de cada 3 globos profesionales no pasan por encima de los rivales 🎾 Y 
 - [x] Datos contrastados (dos estudios + guías de entrenadores).
 - [x] Textos dentro de los límites: TikTok 5 hashtags; YouTube título < 100; Instagram < 2200.
 - [x] Vídeo renderizado en el móvil del usuario (8 Mbps) y montado con el audio; revisado.
-- [ ] Programado.
+- [x] Programado en Metricool (cuenta «Padel», 7628354) para HOY domingo 25/10/2026 a las 21:50 (Europe/Madrid): YouTube Short, TikTok e Instagram Reel, con el comentario fijado como primer comentario.
 - [ ] Tras publicarse: fijar el comentario en cada red.
