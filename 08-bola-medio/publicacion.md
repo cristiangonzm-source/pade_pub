@@ -1,6 +1,6 @@
 # Reel 08 · ¿De quién es la bola del medio? — textos de publicación
 
-**Vídeo:** `08-bola-medio.mp4` (1080×1920, ~61 s) · **Voz generada con IA** (marcar contenido IA en cada red).
+**Vídeo:** `08-bola-medio.mp4` (1080×1920, ~64 s) · **Voz generada con IA** (marcar contenido IA en cada red).
 
 **Datos que se enseñan y de dónde salen**
 - Bola a 80 km/h: 0,42 s de vuelo; llegar a ella 0,35 s; margen 0,07 s → medido con el motor del canal (simulación con supuestos declarados, no un estudio).
