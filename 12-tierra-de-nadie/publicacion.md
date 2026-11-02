@@ -1,6 +1,6 @@
 # Reel 12 · Tierra de nadie — textos de publicación
 
-**Vídeo:** `12-tierra-de-nadie.mp4` (1080×1920, ~70 s) · **Voz generada con IA** (marcar contenido IA en cada red). Sin música.
+**Vídeo:** `12-tierra-de-nadie.mp4` (1080×1920, ~74 s) · **Voz generada con IA** (marcar contenido IA en cada red). Sin música.
 
 **Qué se enseña**
 - La tierra de nadie (zona entre la línea de saque y la red): pasar por ella es normal, lo que no puedes es ir corriendo cuando golpea el rival.
